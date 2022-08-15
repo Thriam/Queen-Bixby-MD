@@ -35,7 +35,7 @@
 
 
 1. Click [SCAN](https://replit.com/@darkalpha2003/Queen-Bixby-MD-Scanner-New-02?v=1?outputonly=1&lite=1#index.js)) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
-2. You will get a long text that needs after 4th step (session.js).
+2. You will get a long text that needs after 4th step (session.json).
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 4. Click [FORK](https://github.com/darkalphaxteam/Queen-Bixby-MD/fork)
 5. Click the url showing below to copy deploy template
